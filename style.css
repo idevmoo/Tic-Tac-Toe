@@ -62,3 +62,9 @@ span{
     color: #ff0000;
     text-transform: none;
 }
+
+@media (max-width: 650px) {
+    .game {
+        height: 90vh;
+    }
+}
