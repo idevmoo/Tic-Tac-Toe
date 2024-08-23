@@ -5,7 +5,11 @@
 }
 
 body {
-    background: #10001d;
+    background-image: linear-gradient(#01012e, #240019);
+}
+
+.background {
+    background-image: url("stars.png");
 }
 
 .game {
